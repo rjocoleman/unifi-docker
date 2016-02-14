@@ -8,7 +8,8 @@ Run [Unifi Controller v4](https://www.ubnt.com/enterprise/software/) in a Docker
 * Up to date install repo.
 * Supports current latest Unifi controller version. ([v4.8.12](http://community.ubnt.com/t5/UniFi-Updates-Blog/UniFi-4-8-12-is-released/ba-p/1468911) at time of writing).
 * Includes MongoDB.
-
+* Source: https://github.com/rjocoleman/unifi-docker
+* Feedback/Issues: https://github.com/rjocoleman/unifi-docker/issues
 
 ## Usage
 
